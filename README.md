@@ -3,7 +3,9 @@
 A rebuild of a 2016 Web Designing contest entry — a full morning/afternoon event program, a six-game Larong Pinoy showcase, and contestant credits, kept true to the original site.
 
 **Category:** Education
+
 **Live site:** https://islandcoder3.github.io/students-day-2016/
+
 **Built with:** HTML, CSS, JavaScript
 
 ## About
