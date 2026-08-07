@@ -1,6 +1,6 @@
 # Students' Day 2016 — Cebu Normal University
 
-A rebuild of a 2016 Web Designing contest entry — a full morning/afternoon event program, a six-game Larong Pinoy showcase, and contestant credits, kept true to the original site.
+A 2016 Web Designing contest entry — a full morning/afternoon event program, a six-game Larong Pinoy showcase, and contestant credits, kept true to the original site.
 
 **Category:** Education
 
